@@ -1,4 +1,4 @@
-# Dianna
+# Readme Generator ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   Table of Contents
 
@@ -12,29 +12,26 @@
   - [Questions](#questions)
 
   ## Description:
-  readme
+  I developed a command-line application to generate a quality README. I have included the title of my project along with an array of questions for description, installation instructions, usage, license information, contributing, and tests. In each section the user is able to input his/her answers for each question. When the user reaches the license  question they will select a license. A badge will appear next to the title when the README is generated. Furthermore, a link will be provided regarding more information for the license. A Table of Contents will direct the user to each section. At the end of the README, a questions section will display my GIthub Profile and email address for more information. 
 
   ## Installation:
-  readme
+  Use the npm install package. First use npm install, then npm  install inquirer
 
   ## Usage:
-  readme
+  It can be used to generate a README.md.
   
   ## License:
-  
-  ![License](https://img.shields.io/badge/License--blue.svg)
+
+  For more information vist: (https://opensource.org/licenses/MIT)
 
   ## Contributing:
-  readme
+  Dianna
 
-  ## Test
-  readme
+  ## Test:
+  In your terminal type node index.js then press enter.
 
-  ## Questions 
+  ## Questions:
 
-  -[Github Profile](https://github.com/dmack095-07)
+  Here is a link to my [Github Profile](https://github.com/dmack095-07)
 
   You can reach me at dianna.mack@yahoo.com for additional questions!
-  
-  
-

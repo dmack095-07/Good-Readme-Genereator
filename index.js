@@ -19,7 +19,7 @@ const questions = [
   {
     type: "input",
     name: "installation",
-    message: "What steps are needed to install your project and what are the minimum requirements?"
+    message: "What are the installation instructions for your project?"
   },
   {
     type: "input",
@@ -29,7 +29,7 @@ const questions = [
   {
     type: "input",
     name: "contribution",
-    message: "You can input your contributions here."
+    message: "Please input your contributions here."
   },
   {
     type: "input",
