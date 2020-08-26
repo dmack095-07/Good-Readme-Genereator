@@ -36,4 +36,8 @@
 
   You can reach me at dianna.mack@yahoo.com for additional questions!
   
-  Here is my link to my walkthrough video https://drive.google.com/file/d/14dtjiuDA5ywNmwdwVaQUJDSnKzja5yOK/view .
+  Here is my link to my walkthrough video https://drive.google.com/file/d/14dtjiuDA5ywNmwdwVaQUJDSnKzja5yOK/view 
+  
+  <img width="1440" alt="Sample README" src="https://user-images.githubusercontent.com/65475404/91252816-488d0480-e72c-11ea-859c-cd5abb7bcc8c.png">
+
+  <img width="1440" alt="Node index" src="https://user-images.githubusercontent.com/65475404/91252972-b0dbe600-e72c-11ea-891f-84409545fb9b.png">
