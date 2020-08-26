@@ -35,3 +35,5 @@
   Here is a link to my [Github Profile](https://github.com/dmack095-07)
 
   You can reach me at dianna.mack@yahoo.com for additional questions!
+  
+  Here is my link to my walkthrough video https://drive.google.com/file/d/14dtjiuDA5ywNmwdwVaQUJDSnKzja5yOK/view .
